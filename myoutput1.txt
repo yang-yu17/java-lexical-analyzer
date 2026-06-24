@@ -1,0 +1,16 @@
+a	: IDENT
+<-	: ASSIGN
+INPUT	: Keyword_INPUT
+(	: LPAREN
+)	: RPAREN
+b	: IDENT
+<-	: ASSIGN
+INPUT	: Keyword_INPUT
+(	: LPAREN
+)	: RPAREN
+DISPLAY	: Keyword_DISPLAY
+(	: LPAREN
+a	: IDENT
++	: ADD
+b	: IDENT
+)	: RPAREN

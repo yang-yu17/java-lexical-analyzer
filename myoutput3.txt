@@ -1,0 +1,6 @@
+13.	: FLOAT
+@	: Lexical Error, invalid token
+1	: INT
+e100	: IDENT
+-	: SUB
+25	: INT
